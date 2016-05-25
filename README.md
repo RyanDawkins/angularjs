@@ -2,7 +2,7 @@
 
 This is my presentation for angular.js to explain the basics around it. 
 
-Topics I'll cover:
+## Topics I'll cover:
 * Folder Structure
 * First module
 * View
