@@ -1,7 +1,4 @@
-# iife's
-These are some concepts you need to know before diving into angular.
-
-## IIFE (Immediately Invoked Function Expression)
+# IIFE (Immediately Invoked Function Expression)
 
 ```javascript
 
