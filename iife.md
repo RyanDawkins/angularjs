@@ -21,4 +21,4 @@ The other thing that this function wrapped in braces does is that it hides the f
 
 **tl;dr** The iife prevents poluting the global namespace. So the x variable is not in global and only exists within the iife function which is not exposed. 
 
-[Next: Dependency Injection](https://github.com/RyanDawkins/angularjs/edit/master/di.md)
+[Next: Dependency Injection](https://github.com/RyanDawkins/angularjs/blob/master/di.md)
