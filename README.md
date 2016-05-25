@@ -16,4 +16,4 @@ This is my presentation for angular.js to explain the basics around it.
 ## Prerequisites
 It is expected that you know JavaScript before you dive into angular because it is a JavaScript framework.
 
-[Concepts to understand before learning angular](https://github.com/RyanDawkins/angularjs/blob/master/concepts.md)
+[Concepts to understand before learning angular](https://github.com/RyanDawkins/angularjs/blob/master/iife.md)
