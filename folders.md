@@ -52,4 +52,4 @@ You can see if you want to work on the login page you have to go into the contro
 
 You can see this is a much easier method of organizing your files. If you need to work on the login page, you just go to the login folder.
 
-[Next: (Views)[https://github.com/RyanDawkins/angularjs/blob/master/views.md]]
+[Next: [Views](https://github.com/RyanDawkins/angularjs/blob/master/views.md)]
